@@ -1,0 +1,16 @@
+{
+  "name": "abandonedHall",
+  "id": "abandonedHall_environment",
+  "isEnvironment": true,
+  "ruleEngineType": "JSON",
+  "meshesUrlRelative": "environments_indoor/abandonedHall/meshes/",
+  "materialsUrlRelative": "environments_indoor/abandonedHall/materials/",
+  "animationsUrlRelative": "environments_indoor/abandonedHall/animations/",
+  "texturesUrlRelative": "environments_indoor/abandonedHall/textures/",
+  "ruleEngineConfigUrlRelative": "environments_indoor/abandonedHall/abandonedHall_rule_engine.json",
+  "materialMappingsUrlRelative": "environments_indoor/abandonedHall/abandonedHall_material_mappings.json",
+  "animations": [],
+  "cameraShotUrlsRelative": [],
+  "environmentEntityUrlsRelative": [],
+  "environmentConfigRelative": "environments_indoor/abandonedHall/abandonedHall_environment_config.json"
+}

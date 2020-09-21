@@ -1,0 +1,10 @@
+{
+  "defaultConfigurationCodes": [],
+  "nonConfigurableLayers": [
+    "ENV",
+    "Monclear"
+  ],
+  "configurableLayers": [],
+  "properties": [
+  ]
+}

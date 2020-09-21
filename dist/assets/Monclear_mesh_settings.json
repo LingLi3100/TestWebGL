@@ -1,0 +1,16 @@
+{
+  "meshes": [
+    {
+      "id": "Floor",
+      "alphaIndex": 0
+    },
+    {
+      "id": "_geo_02318_INSTALOD002",
+      "alphaIndex": 0
+    },
+    {
+      "id": "side_parts51_INSTALOD001",
+      "alphaIndex": 0
+    }
+  ]
+}

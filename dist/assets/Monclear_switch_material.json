@@ -1,0 +1,62 @@
+{
+	"DT_MaterialSwitches": {
+	  "MI_FB": [
+		{
+		  "materialName": "MI_FB.json",
+		  "code": "MC01black"
+		},
+		{
+		  "materialName": "monclear01_white_base.json",
+		  "code": "MC01white"
+		},
+		{
+		  "materialName": "monclear01_Dblue_base.json",
+		  "code": "MC01Dblue"
+		}
+	  ],
+	  "MI_M_Head": [
+		{
+		  "materialName": "MI_M_Head.json",
+		  "code": "MC01black"
+		},
+		{
+		  "materialName": "monclear01_white_head.json",
+		  "code": "MC01white"
+		},
+		{
+		  "materialName": "monclear01_Dblue_head.json",
+		  "code": "MC01Dblue"
+		}
+
+	  ],
+	  "MI_FB02": [
+		{
+		  "materialName": "MI_FB02.json",
+		  "code": "MC01black"
+		},
+		{
+		  "materialName": "monclear01_white_arm.json",
+		  "code": "MC01white"
+		},
+		{
+		  "materialName": "monclear01_Dblue_arm.json",
+		  "code": "MC01Dblue"
+		}
+	  ],
+	  "V-Ray_material_for_silk_smooth_red_sbsar_1": [
+		{
+		  "materialName": "monclear02_red.json",
+		  "code": "MC02red"
+		},
+		{
+		  "materialName": "monclear02_Bblue.json",
+		  "code": "MC02Bblue"
+		},
+		{
+		  "materialName": "monclear02_yellow.json",
+		  "code": "MC02yellow"
+		}
+	  ]
+	}
+  }
+  

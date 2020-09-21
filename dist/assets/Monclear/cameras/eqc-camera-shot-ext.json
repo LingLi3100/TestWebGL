@@ -1,0 +1,25 @@
+{
+  "id": "EQC-Camera-Shot-Exterior",
+  "target": [0, 1, 0],
+  "position": [0, 0.1, 2],
+  "fov": 30,
+  "behaviors": [
+    {
+      "type": "ORBIT",
+      "options": {
+        "allowAutoRotation": false,
+        "autoRotationSpeed": 0.1,
+        "lowerBetaLimit": 71,
+        "upperBetaLimit": 89.2
+      }
+    },
+    {
+      "type": "ZOOM",
+      "options": {
+        "wheelPrecision": 0.01,
+        "lowerRadiusLimit": 2,
+        "upperRadiusLimit": 9
+      }
+    }
+  ]
+}
