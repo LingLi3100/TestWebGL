@@ -1,5 +1,0 @@
-{
-  "defaultConfigurationCodes": ["ext", "int"],
-  "nonConfigurableLayers": ["Sphere", "Floor", "Floor_Close"],
-  "properties": []
-}

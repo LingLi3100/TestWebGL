@@ -1,0 +1,34 @@
+{
+  "category": "ext",
+  "target": [
+    0,
+    0.5,
+    0
+  ],
+  "position": [
+    7.094822307580055,
+    1.0878513676267298,
+    4.788756112661963
+  ],
+  "fov": 35.3295779513082,
+  "behaviors": [
+    {
+      "type": "ORBIT",
+      "options": {
+        "allowAutoRotation": false,
+        "lowerBetaLimit": 57.295861460796985,
+        "upperBetaLimit": 97.40296448335485,
+        "inertia": 0.9
+      }
+    },
+    {
+      "type": "ZOOM",
+      "options": {
+        "wheelPrecision": 0.01,
+        "lowerRadiusLimit": 4.7,
+        "upperRadiusLimit": 12
+      }
+    }
+  ],
+  "id": "v-class-camera-shot-ext"
+}

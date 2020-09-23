@@ -1,0 +1,331 @@
+{
+  "materialAllocators": [
+    {
+      "name": "license_plate_front",
+      "mapping": "license_plate_e_class.json"
+    },
+    {
+      "name": "black_emblem",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "brakedisc_front",
+      "mapping": "brakedisk_front_e_class.json"
+    },
+    {
+      "name": "brakedisc_raer",
+      "mapping": "brakedisk_rear_e_class.json"
+    },
+    {
+      "name": "chrome",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "chrome_emblem",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "chrome_headlight",
+      "mapping": "headlights_chrome_e_class.json"
+    },
+    {
+      "name": "display_left",
+      "mapping": "display_e_class.json"
+    },
+    {
+      "name": "display_right",
+      "mapping": "display_e_class.json"
+    },
+    {
+      "name": "E00080_Chrome_w_spec",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "Env_Entrences",
+      "mapping": "Env_Entrances.json"
+    },
+    {
+      "name": "Env_Floor",
+      "mapping": "Env_Floor.json"
+    },
+    {
+      "name": "Env_Walls_Center",
+      "mapping": "Env_Walls_Center.json"
+    },
+    {
+      "name": "Env_Walls_Outer",
+      "mapping": "Env_Walls_Outer.json"
+    },
+    {
+      "name": "glass_indicator",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "glass_red_rearlight",
+      "mapping": "lights_glass_red.json"
+    },
+    {
+      "name": "glass_tinted_black",
+      "mapping": "M_Glass.json"
+    },
+    {
+      "name": "glass_white_headlight",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "glass_white_rearlight",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "glass_white_roof",
+      "mapping": "M_Glass.json"
+    },
+    {
+      "name": "glossy_black",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "glossy_black_rearlight",
+      "mapping": "glossy_black_rearlight_e_class.json"
+    },
+    {
+      "name": "glossy_black_rim",
+      "mapping": "rim_glossy_black_R74.json"
+    },
+    {
+      "name": "glossy_black_rim_01R",
+      "mapping": "rim_glossy_black_01R.json"
+    },
+    {
+      "name": "glossy_black_rim_R97",
+      "mapping": "rim_glossy_black_R97.json"
+    },
+    {
+      "name": "glossy_black_rim_RTD",
+      "mapping": "rim_glossy_black_RTD.json"
+    },
+    {
+      "name": "glossy_chrome_red_rearlight",
+      "mapping": "lights_glossy_red_emissive.json"
+    },
+    {
+      "name": "glossy_chrome_white_rearlight",
+      "mapping": "rearlights_chrome_e_class.json"
+    },
+    {
+      "name": "glossy_silver",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "glossy_silver_rim",
+      "mapping": "rim_glossy_silver_R74.json"
+    },
+    {
+      "name": "glossy_silver_rim_01R",
+      "mapping": "rim_glossy_silver_01R.json"
+    },
+    {
+      "name": "glossy_silver_rim_R97",
+      "mapping": "rim_glossy_silver_R97.json"
+    },
+    {
+      "name": "glossy_silver_rim_RTD",
+      "mapping": "rim_glossy_silver_RTD.json"
+    },
+    {
+      "name": "indicator_reflector",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "interieur",
+      "mapping": "Black.json"
+    },
+    {
+      "name": "matte_black",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "matte_black_headlight",
+      "mapping": "headlights_matte_black_e_class.json"
+    },
+    {
+      "name": "matte_black_textured",
+      "mapping": "grill_grids_e_class_classic.json"
+    },
+    {
+      "name": "matte_chrome_rearlight",
+      "mapping": "rearlights_chrome_e_class.json"
+    },
+    {
+      "name": "metal_red_rearlight",
+      "mapping": "lights_metal_red.json"
+    },
+    {
+      "name": "numberplate",
+      "mapping": "license_plate_e_class.json"
+    },
+    {
+      "name": "pure_black",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "reflection",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "reflectors",
+      "mapping": "reflector_e_class.json"
+    },
+    {
+      "name": "shadowplane",
+      "mapping": "shadowplane_e_class.json"
+    },
+    {
+      "name": "Tire_Rubber",
+      "mapping": "tire_rubber.json"
+    },
+    {
+      "name": "zierteile_silber",
+      "mapping": "glossy_black.json"
+    }
+  ],
+  "switchMaterials": [
+    {
+      "name": "chrome_lens_headlight",
+      "slots": [
+        {
+          "name": "lights_LED.json",
+          "mapping": "lights_LED.json"
+        },
+        {
+          "name": "lights_LED_off.json",
+          "mapping": "lights_LED_off.json"
+        }
+      ]
+    },
+    {
+      "name": "chrome_light_headlight",
+      "slots": [
+        {
+          "name": "lights_LED.json",
+          "mapping": "lights_LED.json"
+        },
+        {
+          "name": "lights_LED_off.json",
+          "mapping": "lights_LED_off.json"
+        }
+      ]
+    },
+    {
+      "name": "door_seal",
+      "slots": [
+        {
+          "name": "carpaint_obsidian_black.json",
+          "mapping": "carpaint_obsidian_black.json"
+        },
+        {
+          "name": "carpaint_brilliant_blue.json",
+          "mapping": "carpaint_brilliant_blue.json"
+        },
+        {
+          "name": "carpaint_high_tech_silver.json",
+          "mapping": "carpaint_high_tech_silver.json"
+        },
+        {
+          "name": "carpaint_kallaite_green.json",
+          "mapping": "carpaint_kallaite_green.json"
+        },
+        {
+          "name": "carpaint_mojave_silver.json",
+          "mapping": "carpaint_mojave_silver.json"
+        },
+        {
+          "name": "carpaint_ruby_black.json",
+          "mapping": "carpaint_ruby_black.json"
+        },
+        {
+          "name": "carpaint_selenite_grey.json",
+          "mapping": "carpaint_selenite_grey.json"
+        },
+        {
+          "name": "carpaint_designo_hyacinth_red_metallic.json",
+          "mapping": "carpaint_designo_hyacinth_red_metallic.json"
+        }
+      ]
+    },
+    {
+      "name": "switch_carpaint",
+      "slots": [
+        {
+          "name": "carpaint_obsidian_black_e_class.json",
+          "mapping": "carpaint_obsidian_black_e_class.json"
+        },
+        {
+          "name": "carpaint_brilliant_blue_e_class.json",
+          "mapping": "carpaint_brilliant_blue_e_class.json"
+        },
+        {
+          "name": "carpaint_high_tech_silver_e_class.json",
+          "mapping": "carpaint_high_tech_silver_e_class.json"
+        },
+        {
+          "name": "carpaint_kallaite_green_e_class.json",
+          "mapping": "carpaint_kallaite_green_e_class.json"
+        },
+        {
+          "name": "carpaint_mojave_silver_e_class.json",
+          "mapping": "carpaint_mojave_silver_e_class.json"
+        },
+        {
+          "name": "carpaint_ruby_black_e_class.json",
+          "mapping": "carpaint_ruby_black_e_class.json"
+        },
+        {
+          "name": "carpaint_selenite_grey_e_class.json",
+          "mapping": "carpaint_selenite_grey_e_class.json"
+        },
+        {
+          "name": "carpaint_designo_hyacinth_red_metallic_e_class.json",
+          "mapping": "carpaint_designo_hyacinth_red_metallic_e_class.json"
+        }
+      ]
+    },
+    {
+      "name": "switch_carpaint_sport",
+      "slots": [
+        {
+          "name": "carpaint_obsidian_black_e_class_sport.json",
+          "mapping": "carpaint_obsidian_black_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_brilliant_blue_e_class_sport.json",
+          "mapping": "carpaint_brilliant_blue_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_high_tech_silver_e_class_sport.json",
+          "mapping": "carpaint_high_tech_silver_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_kallaite_green_e_class_sport.json",
+          "mapping": "carpaint_kallaite_green_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_mojave_silver_e_class_sport.json",
+          "mapping": "carpaint_mojave_silver_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_ruby_black_e_class_sport.json",
+          "mapping": "carpaint_ruby_black_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_selenite_grey_e_class_sport.json",
+          "mapping": "carpaint_selenite_grey_e_class_sport.json"
+        },
+        {
+          "name": "carpaint_designo_hyacinth_red_metallic_e_class_sport.json",
+          "mapping": "carpaint_designo_hyacinth_red_metallic_e_class_sport.json"
+        }
+      ]
+    }
+  ]
+}

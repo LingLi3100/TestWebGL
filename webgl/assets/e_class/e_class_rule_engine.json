@@ -1,0 +1,196 @@
+{
+  "defaultConfigurationCodes": [
+    "Tire_R97",
+    "carpaint_high_tech_silver_922U",
+    "ext_classic",
+    "lights_on"
+  ],
+  "nonConfigurableLayers": [
+    "ext_badge",
+    "ext_common",
+    "ext_shadowplane",
+    "int",
+    "MB_EQC_Env"
+  ],
+  "configurableLayers": ["R97", "RTD", "ext_classic", "ext_sport"],
+  "properties": [
+    {
+      "code": "ext_classic",
+      "layerNames": ["ext_classic"]
+    },
+    {
+      "code": "ext_sport",
+      "layerNames": ["ext_sport"]
+    },
+    {
+      "code": "Tire_R97",
+      "layerNames": ["R97"]
+    },
+    {
+      "code": "Tire_RTD",
+      "layerNames": ["RTD"]
+    },
+    {
+      "code": "carpaint_obsidian_black_9197",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_obsidian_black_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_obsidian_black_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_obsidian_black.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_brilliant_blue_896U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_brilliant_blue_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_brilliant_blue_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_brilliant_blue.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_high_tech_silver_922U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_high_tech_silver_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_high_tech_silver_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_high_tech_silver.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_kallaite_green_997U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_kallaite_green_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_kallaite_green_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_kallaite_green.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_mojave_silver_859U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_mojave_silver_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_mojave_silver_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_mojave_silver.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_ruby_black_897U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_ruby_black_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_ruby_black_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_ruby_black.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_selenite_grey_992U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_selenite_grey_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_selenite_grey_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_selenite_grey.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_designo_hyacinth_red_metallic_996U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "switch_carpaint",
+          "switchMaterialSlot": "carpaint_designo_hyacinth_red_metallic_e_class.json"
+        },
+        {
+          "switchMaterialName": "switch_carpaint_sport",
+          "switchMaterialSlot": "carpaint_designo_hyacinth_red_metallic_e_class_sport.json"
+        },
+        {
+          "switchMaterialName": "door_seal",
+          "switchMaterialSlot": "carpaint_designo_hyacinth_red_metallic.json"
+        }
+      ]
+    },
+    {
+      "code": "lights_on",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "chrome_lens_headlight",
+          "switchMaterialSlot": "lights_LED.json"
+        },
+        {
+          "switchMaterialName": "chrome_light_headlight",
+          "switchMaterialSlot": "lights_LED.json"
+        }
+      ]
+    },
+    {
+      "code": "lights_off",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "chrome_lens_headlight",
+          "switchMaterialSlot": "lights_LED_off.json"
+        },
+        {
+          "switchMaterialName": "chrome_light_headlight",
+          "switchMaterialSlot": "lights_LED_off.json"
+        }
+      ]
+    }
+  ]
+}

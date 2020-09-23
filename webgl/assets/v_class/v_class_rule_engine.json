@@ -1,0 +1,111 @@
+{
+  "defaultConfigurationCodes": ["Tire_R1P", "carpaint_brilliant_silver_9744"],
+  "nonConfigurableLayers": [
+    "Car23_int_IP",
+    "Car3_ext",
+    "Car3_int_body",
+    "Car3_int_IP",
+    "Car3_paint",
+    "Door_b_L_Car3_socket_door_rl",
+    "Door_b_L_socket_door_rl",
+    "Door_b_R_Car3_socket_door_rr",
+    "Door_b_R_socket_door_rr",
+    "Door_f_L_BODY_socket_door_fl",
+    "Door_f_L_BODY_tiao02_socket_door_fl",
+    "Door_f_L_BODY_tiao02_socket_door_fr",
+    "Door_f_R_BODY_socket_door_fr",
+    "Light_Back",
+    "MB_EQC_Env",
+    "muwen",
+    "Paint_door_f_L_car23_socket_door_fl",
+    "Paint_door_f_L_socket_door_fl",
+    "Paint_door_f_R_car23_socket_door_fr",
+    "Paint_door_f_R_socket_door_fr",
+    "Seat_Car_01",
+    "Seat_Car_02",
+    "Shadowplane",
+    "tianchuang",
+    "Tire_Common",
+    "Trunk_01_socket_trunk",
+    "headlights",
+    "Car123_int_IP",
+    "V_EXT_POI",
+    "InterestPoints_Interior"
+  ],
+  "configurableLayers": ["Tire_R1P", "Tire_RK2"],
+  "properties": [
+    {
+      "code": "Tire_R1P",
+      "layerNames": ["Tire_R1P"]
+    },
+    {
+      "code": "Tire_RK2",
+      "layerNames": ["Tire_RK2"]
+    },
+    {
+      "code": "carpaint_obsidian_black_9197",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint_03",
+          "switchMaterialSlot": "carpaint_obsidian_black_v_class_03.json"
+        },
+        {
+          "switchMaterialName": "carpaint_0102",
+          "switchMaterialSlot": "carpaint_obsidian_black_v_class.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_brilliant_silver_9744",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint_03",
+          "switchMaterialSlot": "carpaint_brilliant_silver_v_class_03.json"
+        },
+        {
+          "switchMaterialName": "carpaint_0102",
+          "switchMaterialSlot": "carpaint_brilliant_silver_v_class.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_rock_crystal_white_9134",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint_03",
+          "switchMaterialSlot": "carpaint_rock_crystal_white_v_class_03.json"
+        },
+        {
+          "switchMaterialName": "carpaint_0102",
+          "switchMaterialSlot": "carpaint_rock_crystal_white_v_class.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_cavansite_blue_5890",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint_03",
+          "switchMaterialSlot": "carpaint_cavansite_blue_v_class_03.json"
+        },
+        {
+          "switchMaterialName": "carpaint_0102",
+          "switchMaterialSlot": "carpaint_cavansite_blue_v_class.json"
+        }
+      ]
+    },
+    {
+      "code": "carpaint_graphite_grey_7831",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint_03",
+          "switchMaterialSlot": "carpaint_graphite_grey_v_class_03.json"
+        },
+        {
+          "switchMaterialName": "carpaint_0102",
+          "switchMaterialSlot": "carpaint_graphite_grey_v_class.json"
+        }
+      ]
+    }
+  ]
+}

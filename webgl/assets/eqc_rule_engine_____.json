@@ -1,0 +1,84 @@
+{
+  "defaultConfigurationCodes": ["R37", "996U"],
+  "nonConfigurableLayers": [
+    "EXT",
+    "INT",
+    "InterestPoints",
+    "InterestPoints_Interior",
+    "MB_EQC_Env"
+  ],
+  "configurableLayers": [],
+  "properties": [
+    {
+      "code": "R37",
+      "layerNames": "EQC_Rims01"
+    },
+    {
+      "code": "R90",
+      "layerNames": "EQC_Rims02"
+    },
+    {
+      "code": "197U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_black.json"
+        }
+      ]
+    },
+    {
+      "code": "859U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_silver.json"
+        }
+      ]
+    },
+    {
+      "code": "996U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_red.json"
+        }
+      ]
+    },
+    {
+      "code": "149U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_polarWhite.json"
+        }
+      ]
+    },
+    {
+      "code": "896U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_brilliantBlue.json"
+        }
+      ]
+    },
+    {
+      "code": "831U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_gray.json"
+        }
+      ]
+    },
+    {
+      "code": "922U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_silver.json"
+        }
+      ]
+    }
+  ]
+}

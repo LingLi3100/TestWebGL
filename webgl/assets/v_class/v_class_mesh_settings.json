@@ -1,0 +1,46 @@
+{
+  "meshes": [
+    {
+      "id": "Floor",
+      "alphaIndex": 0
+    },
+    {
+      "id": "_geo_022018_INSTALOD002",
+      "alphaIndex": 0
+    },
+    {
+      "id": "side_parts51_INSTALOD001",
+      "alphaIndex": 0
+    },
+    {
+      "id": "Pillar",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    },
+    {
+      "id": "Pillar01",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    },
+    {
+      "id": "Pillar02",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    },
+    {
+      "id": "Pillar020",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    },
+    {
+      "id": "Pillar04",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    },
+    {
+      "id": "Pillar05",
+      "hideOnCameraIntersect": true,
+      "boundingBoxScale": 20
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "defaultConfigurationCodes": ["monclear01","MC01white"],
+  "nonConfigurableLayers": [
+    "ENV"
+    
+  ],
+  "configurableLayers": ["Monclear", "Monclear02"],
+  "properties": [
+    {
+      "code": "MC01black",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "MI_FB",
+          "switchMaterialSlot": "MI_FB.json"
+        },
+        {
+          "switchMaterialName": "MI_M_Head",
+          "switchMaterialSlot": "MI_M_Head.json"
+        },
+        {
+          "switchMaterialName": "MI_FB02",
+          "switchMaterialSlot": "MI_FB02.json"
+        }
+      ]
+    },
+    {
+      "code": "MC01white",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "MI_FB",
+          "switchMaterialSlot": "monclear01_white_base.json"
+        },
+        {
+          "switchMaterialName": "MI_M_Head",
+          "switchMaterialSlot": "monclear01_white_head.json"
+        },
+        {
+          "switchMaterialName": "MI_FB02",
+          "switchMaterialSlot": "monclear01_white_arm.json"
+        }
+      ]
+    },
+    {
+      "code": "MC01Dblue",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "MI_FB",
+          "switchMaterialSlot": "monclear01_Dblue_base.json"
+        },
+        {
+          "switchMaterialName": "MI_M_Head",
+          "switchMaterialSlot": "monclear01_Dblue_head.json"
+        },
+        {
+          "switchMaterialName": "MI_FB02",
+          "switchMaterialSlot": "monclear01_Dblue_arm.json"
+        }
+      ]
+    },
+    {
+      "code": "MC02red",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "V-Ray_material_for_silk_smooth_red_sbsar_1",
+          "switchMaterialSlot": "monclear02_red.json"
+        }
+      ]
+    },
+    {
+      "code": "MC02Bblue",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "V-Ray_material_for_silk_smooth_red_sbsar_1",
+          "switchMaterialSlot": "monclear02_Bblue.json"
+        }
+      ]
+    },
+    {
+      "code": "MC02yellow",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "V-Ray_material_for_silk_smooth_red_sbsar_1",
+          "switchMaterialSlot": "monclear02_yellow.json"
+        }
+      ]
+    },
+    {
+      "code": "monclear01",
+      "layerNames": ["Monclear"]
+    },
+    {
+      "code": "monclear02",
+      "layerNames": ["Monclear02"]
+    }
+  ]
+}

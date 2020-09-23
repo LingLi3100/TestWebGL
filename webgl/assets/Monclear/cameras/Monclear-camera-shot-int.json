@@ -1,0 +1,23 @@
+{
+  "id": "Monclear-Camera-Shot-Interior",
+  "target": [0.1, 1, 0],
+  "position": [0, 1, 0],
+  "fov": 70,
+  "behaviors": [
+    {
+      "type": "ORBIT",
+      "options": {
+        "allowAutoRotation": false,
+        "autoRotationSpeed": 0.1,
+        "lowerBetaLimit": 45,
+        "upperBetaLimit": 115
+      }
+    },
+    {
+      "type": "ZOOM",
+      "options": {
+        "wheelPrecision": 0.01
+      }
+    }
+  ]
+}

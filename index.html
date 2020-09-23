@@ -1,57 +1,32 @@
-<!DOCTYPE html>
-<html style="width: 100%; height: 100%">
-  <head>
-    <title>Playground Web-Gl-Core</title>
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no, shrink-to-fit=no"
-    />
-    <meta name="HandheldFriendly" content="true" />
-  </head>
-  <style>
-    * {
-      overflow: hidden;
-    }
-
-    html,
-    body {
-      margin: 0;
-      padding: 0;
-    }
-
-    #scene-explorer-host,
-    #inspector-host {
-      position: fixed !important;
-      z-index: 3;
-    }
-  </style>
-  <script>
-    document.addEventListener(
-      'touchmove',
-      function(event) {
-        if (event.scale !== 1) {
-          event.preventDefault();
-        }
-      },
-      { passive: false },
-    );
-  </script>
-  <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
-  <body style="width: 100%; height: 100%;">
-    <div id="sidebar" style="width: 15%; position: absolute; height: 100%; z-index: 2;">
-      <h3 id="page-title"></h3>
-      <button id="load-configurator-button">Load WebGL configurator</button>
-      <div id="configuration-buttons-container" style="display: none;"></div>
-      <button id="switch-camera-button" style="display: none;">Switch Camera</button>
-      <button id="switch-environment-button" style="display: none;">Switch Environment</button>
-      <button id="destroy-configurator-button" style="display: none;">Destroy Configurator</button>
-    </div>
-    <canvas
-      id="viewport"
-      tabindex="1"
-      touch-action="none"
-      style="width: 100%; height: 100%; touch-action: none;"
-    ></canvas>
-  <script type="text/javascript" src="vendors.js"></script><script type="text/javascript" src="app1.js"></script>
-</body>
-</html>
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><link rel=icon href=favicon.ico><title>Monclear</title><script src=pep.js></script><style type=text/css>body {
+        background-color: #141414;
+      }
+      #pre-loading-icon {
+        position: fixed;
+        top: 30%;
+        left: 50%;
+        margin-left: -39px;
+        width: 78px;
+        height: 36px;
+      }</style><link href=css/app.466bf9e6.css rel=preload as=style><link href=css/chunk-vendors.48c47efd.css rel=preload as=style><link href=js/app.3400a0b3.js rel=preload as=script><link href=js/chunk-vendors.efca5df5.js rel=preload as=script><link href=css/chunk-vendors.48c47efd.css rel=stylesheet><link href=css/app.466bf9e6.css rel=stylesheet></head><body><noscript><strong>We're sorry but Monclear doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><img id=pre-loading-icon src=loading-icon.png><div id=app></div><script>try {
+        document.addEventListener("touchstart", function(event) {
+          if (event.touches.length > 1) {
+            event.preventDefault()
+          }
+        })
+        var lastTouchEnd = 0
+        document.addEventListener(
+          "touchend",
+          function(event) {
+            var now = new Date().getTime()
+            if (now - lastTouchEnd <= 300) {
+              event.preventDefault()
+            }
+            lastTouchEnd = now
+          },
+          false
+        )
+        document.addEventListener("gesturestart", function(event) {
+          event.preventDefault()
+        })
+      } catch (error) {}</script><script src=js/chunk-vendors.efca5df5.js></script><script src=js/app.3400a0b3.js></script></body></html>

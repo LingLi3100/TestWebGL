@@ -1,0 +1,166 @@
+{
+  "mappings": [
+    {
+      "code": "ext",
+      "config": {
+        "clearColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "glowLayerIntensity": 0,
+        "lights": [
+          {
+            "tags": null,
+            "groundColor": [0, 0, 0],
+            "direction": [
+              0.2672612419124244,
+              0.5345224838248488,
+              0.8017837257372732
+            ],
+            "diffuse": [1, 1, 1],
+            "specular": [1, 1, 1],
+            "falloffType": 0,
+            "intensity": 0.01,
+            "range": 1.7976931348623157e308,
+            "intensityMode": 0,
+            "radius": 0.00001,
+            "_renderPriority": 0,
+            "shadowEnabled": true,
+            "excludeWithLayerMask": 0,
+            "includeOnlyWithLayerMask": 0,
+            "lightmapMode": 0,
+            "name": "hemisphericLight",
+            "id": "hemisphericLight",
+            "uniqueId": 2,
+            "state": "",
+            "type": 3,
+            "animations": [],
+            "ranges": []
+          }
+        ],
+        "environmentTexture": {
+          "tags": null,
+          "rotationY": 90,
+          "files": [],
+          "url": "studio_basic.env",
+          "uniqueId": 6,
+          "name": "studio_basic.env",
+          "hasAlpha": false,
+          "getAlphaFromRGB": false,
+          "level": 1,
+          "coordinatesIndex": 0,
+          "coordinatesMode": 3,
+          "wrapU": 1,
+          "wrapV": 1,
+          "wrapR": 1,
+          "anisotropicFilteringLevel": 1,
+          "isCube": true,
+          "is3D": false,
+          "is2DArray": false,
+          "gammaSpace": false,
+          "invertZ": false,
+          "lodLevelInAlpha": false,
+          "lodGenerationOffset": 0,
+          "lodGenerationScale": 0.8,
+          "linearSpecularLOD": false,
+          "isRenderTarget": false,
+          "animations": []
+        },
+        "environmentIntensity": 0.5,
+        "fogEnabled": false,
+        "fogMode": 0,
+        "fogColor": {
+          "r": 0.7,
+          "g": 0.1,
+          "b": 0.1
+        },
+        "fogDensity": 1,
+        "fogEnd": 1,
+        "fogStart": 1
+      }
+    },
+    {
+      "code": "int",
+      "config": {
+        "clearColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "glowLayerIntensity": 0,
+        "lights": [
+          {
+            "tags": null,
+            "groundColor": [0, 0, 0],
+            "direction": [
+              0.2672612419124244,
+              0.5345224838248488,
+              0.8017837257372732
+            ],
+            "diffuse": [1, 1, 1],
+            "specular": [1, 1, 1],
+            "falloffType": 0,
+            "intensity": 0.01,
+            "range": 1.7976931348623157e308,
+            "intensityMode": 0,
+            "radius": 0.00001,
+            "_renderPriority": 0,
+            "shadowEnabled": true,
+            "excludeWithLayerMask": 0,
+            "includeOnlyWithLayerMask": 0,
+            "lightmapMode": 0,
+            "name": "hemisphericLight",
+            "id": "hemisphericLight",
+            "uniqueId": 2,
+            "state": "",
+            "type": 3,
+            "animations": [],
+            "ranges": []
+          }
+        ],
+        "environmentTexture": {
+          "tags": null,
+          "rotationY": 90,
+          "files": [],
+          "url": "abandoned_hall_01_4k.env",
+          "uniqueId": 6,
+          "name": "abandoned_hall_01_4k.env",
+          "hasAlpha": false,
+          "getAlphaFromRGB": false,
+          "level": 1,
+          "coordinatesIndex": 0,
+          "coordinatesMode": 3,
+          "wrapU": 1,
+          "wrapV": 1,
+          "wrapR": 1,
+          "anisotropicFilteringLevel": 1,
+          "isCube": true,
+          "is3D": false,
+          "is2DArray": false,
+          "gammaSpace": false,
+          "invertZ": false,
+          "lodLevelInAlpha": false,
+          "lodGenerationOffset": 0,
+          "lodGenerationScale": 0.8,
+          "linearSpecularLOD": false,
+          "isRenderTarget": false,
+          "animations": []
+        },
+        "environmentIntensity": 0.5,
+        "fogEnabled": false,
+        "fogMode": 0,
+        "fogColor": {
+          "r": 0.7,
+          "g": 0.1,
+          "b": 0.1
+        },
+        "fogDensity": 1,
+        "fogEnd": 1,
+        "fogStart": 1
+      }
+    }
+  ]
+}

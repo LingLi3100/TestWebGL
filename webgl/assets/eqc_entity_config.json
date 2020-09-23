@@ -1,0 +1,29 @@
+{
+  "name": "EQC 350",
+  "id": "eqc_350",
+  "isEnvironment": false,
+  "ruleEngineType": "JSON",
+  "meshesUrlRelative": "eqc/meshes_production/",
+  "materialsUrlRelative": "eqc/materials/",
+  "animationsUrlRelative": "eqc/animations/",
+  "texturesUrlRelative": "eqc/textures_mobile/",
+  "ruleEngineConfigUrlRelative": "eqc_rule_engine.json",
+  "materialMappingsUrlRelative": "eqc_material_mappings.json",
+  "rigUrlRelative": "",
+  "animations": [],
+  "cameraShotUrlsRelative": [
+    "eqc/cameras/eqc-camera-shot-ext.json",
+    "eqc/cameras/eqc-camera-shot-int.json"
+  ],
+  "environmentEntityUrlsRelative": [
+    "env_abandonedHall_entity_config.json"
+  ],
+  "postProcessingConfiguration": {
+    "imagePostProcessingEnabled": false,
+    "glowLayerEnabled": false,
+    "colorGradingTextureUrl": "",
+    "colorGradingTextureEnabled": false,
+    "toneMappingType": 1,
+    "toneMappingEnabled": false
+  }
+}

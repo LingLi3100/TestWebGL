@@ -1,0 +1,33 @@
+{
+  "category": "ext",
+  "target": [
+    -0.112,
+    1.4,
+    -0.099
+  ],
+  "position": [
+    -0.15028546712034646,
+    1.4009404392945444,
+    -0.10850466103078625
+  ],
+  "fov": 64.73469360315231,
+  "behaviors": [
+    {
+      "type": "ORBIT",
+      "options": {
+        "allowAutoRotation": false,
+        "lowerBetaLimit": 57.295861460796985,
+        "upperBetaLimit": 97.40296448335485,
+        "inertia": 0.9
+      }
+    },
+    {
+      "type": "ZOOM",
+      "options": {
+        "wheelPrecision": 0.01,
+        "lowerRadiusLimit": 0.03945883931389772,
+        "upperRadiusLimit": 0.03945883931389772
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "materialAllocators": [
+    {
+      "name": "09 - Default",
+      "mapping": "dash_decor.json"
+    },
+    {
+      "name": "dash",
+      "mapping": "dash_decor.json"
+    },
+    {
+      "name": "door_b",
+      "mapping": "int_door_back.json"
+    },
+    {
+      "name": "door_f",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "Env_Entrences",
+      "mapping": "Env_Entrances.json"
+    },
+    {
+      "name": "Env_Floor",
+      "mapping": "Env_Floor.json"
+    },
+    {
+      "name": "Env_Walls_Center",
+      "mapping": "Env_Walls_Center.json"
+    },
+    {
+      "name": "Env_Walls_Outer",
+      "mapping": "Env_Walls_Outer.json"
+    },
+    {
+      "name": "ext_22",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "ext_body_car03",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "ext_body_car10",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "ext_body_car11",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "ext_body_car12",
+      "mapping": "chrome_v_class_03.json"
+    },
+    {
+      "name": "ext_body_car13",
+      "mapping": "chrome_v_class_03.json"
+    },
+    {
+      "name": "headlights_01",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "headlights_02",
+      "mapping": "headlights_chrome.json"
+    },
+    {
+      "name": "headlights_03",
+      "mapping": "lights_LED.json"
+    },
+    {
+      "name": "headlights_04",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "headlights_05",
+      "mapping": "lights_LED.json"
+    },
+    {
+      "name": "int_black",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "int_body",
+      "mapping": "Black.json"
+    },
+    {
+      "name": "int_metal_01",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "int_metal_02",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "int_metal_03",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "IP",
+      "mapping": "int_ip.json"
+    },
+    {
+      "name": "License_Plate_Front",
+      "mapping": "license_plate.json"
+    },
+    {
+      "name": "License_Plate_Rear",
+      "mapping": "license_plate_rear.json"
+    },
+    {
+      "name": "Primer",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "quian",
+      "mapping": "grill.json"
+    },
+    {
+      "name": "rear_light_01",
+      "mapping": "lights_glossy_red_emissive_02.json"
+    },
+    {
+      "name": "rear_light_02",
+      "mapping": "lights_glossy_red.json"
+    },
+    {
+      "name": "rear_light_04",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "rear_light_05",
+      "mapping": "lights_glossy_red_emissive_02.json"
+    },
+    {
+      "name": "rear_light_glass",
+      "mapping": "lights_glass_red.json"
+    },
+    {
+      "name": "rear_light_reflector",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "Rim_R1P",
+      "mapping": "rim_R1P.json"
+    },
+    {
+      "name": "Rim_R1P_black",
+      "mapping": "rim_R1P_black.json"
+    },
+    {
+      "name": "Rim_RK2",
+      "mapping": "rim_RK2.json"
+    },
+    {
+      "name": "Rim_RK2_silver",
+      "mapping": "rim_RK2_silver.json"
+    },
+    {
+      "name": "seat",
+      "mapping": "seat.json"
+    },
+    {
+      "name": "shadowbox",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "Shadowplane",
+      "mapping": "ShadowPlane.json"
+    },
+    {
+      "name": "Tire_Rubber",
+      "mapping": "tire_rubber.json"
+    },
+    {
+      "name": "trie",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "trunk_brake_light",
+      "mapping": "brake_light_v_class.json"
+    },
+    {
+      "name": "trunk_license_plate",
+      "mapping": "license_plate_rear.json"
+    },
+    {
+      "name": "trunk002",
+      "mapping": "brake_light.json"
+    },
+    {
+      "name": "window",
+      "mapping": "M_Glass.json"
+    },
+    {
+      "name": "window5",
+      "mapping": "M_Glass_Tinted.json"
+    },
+    {
+      "name": "window6",
+      "mapping": "M_Glass_Tinted.json"
+    },
+    {
+      "name": "塑料",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "塑斣",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "塑斤",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "木纹",
+      "mapping": "dash_decor.json"
+    },
+    {
+      "name": "磨砂",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "轮胎",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "钢琴漆",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "镀铬",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "镀银",
+      "mapping": "chrome_v_class_trunk.json"
+    },
+    {
+      "name": "黑",
+      "mapping": "matte_black.json"
+    }
+  ],
+  "switchMaterials": [
+   
+  ]
+}

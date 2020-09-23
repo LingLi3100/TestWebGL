@@ -1,0 +1,99 @@
+{
+  "defaultConfigurationCodes": ["R37", "996U"],
+  "nonConfigurableLayers": [
+    "EXT",
+    "InterestPoints",
+    "InterestPoints_Interior",
+    "MB_EQC_Env"
+  ],
+  "configurableLayers": ["RIM01", "RIM02"],
+  "properties": [
+    {
+      "code": "R37",
+      "layerNames": ["RIM01"]
+    },
+    {
+      "code": "R90",
+      "layerNames": ["RIM02"],
+      "materialSchemes": [
+        {
+          "switchMaterialName": "rim02_color",
+          "switchMaterialSlot": "lights_glossy_blue.json"
+        }
+      ]
+    },
+    {
+      "code": "84R",
+      "layerNames": ["RIM02"],
+      "materialSchemes": [
+        {
+          "switchMaterialName": "rim02_color",
+          "switchMaterialSlot": "blinn1.json"
+        }
+      ]
+    },
+    {
+      "code": "197U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_black.json"
+        }
+      ]
+    },
+    {
+      "code": "859U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_silver_mojave.json"
+        }
+      ]
+    },
+    {
+      "code": "996U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_red.json"
+        }
+      ]
+    },
+    {
+      "code": "149U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_polarWhite.json"
+        }
+      ]
+    },
+    {
+      "code": "896U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_brilliantBlue.json"
+        }
+      ]
+    },
+    {
+      "code": "831U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_gray.json"
+        }
+      ]
+    },
+    {
+      "code": "922U",
+      "materialSchemes": [
+        {
+          "switchMaterialName": "carpaint",
+          "switchMaterialSlot": "carpaint_silver_tech.json"
+        }
+      ]
+    }
+  ]
+}

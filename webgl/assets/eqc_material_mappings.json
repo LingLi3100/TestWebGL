@@ -1,0 +1,267 @@
+{
+  "materialAllocators": [
+    {
+      "name": "Env_Walls_Center",
+      "mapping": "Env_Walls_Center.json"
+    },
+    {
+      "name": "Env_Walls_Outer",
+      "mapping": "Env_Walls_Outer.json"
+    },
+    {
+      "name": "Env_Entrences",
+      "mapping": "Env_Entrances.json"
+    },
+    {
+      "name": "Env_Floor",
+      "mapping": "Env_Floor.json"
+    },
+    {
+      "name": "Blackbox",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "EQC_badge",
+      "mapping": "EQC_badge.json"
+    },
+    {
+      "name": "INT_Dark",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "carpaint",
+      "mapping": "carpaint_polarWhite.json"
+    },
+    {
+      "name": "INT_Silver",
+      "mapping": "INT_Sliver.json"
+    },
+    {
+      "name": "INT_glossy_black",
+      "mapping": "INT_glossy_black.json"
+    },
+    {
+      "name": "brake_calipers_silver",
+      "mapping": "brake_calipers_silver.json"
+    },
+    {
+      "name": "brakedisc",
+      "mapping": "brakedisc.json"
+    },
+    {
+      "name": "brakelight_mid",
+      "mapping": "brakelight_mid.json"
+    },
+    {
+      "name": "chrome",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "window_glass",
+      "mapping": "window_glass.json"
+    },
+    {
+      "name": "glass_roof",
+      "mapping": "window_glass.json"
+    },
+    {
+      "name": "glossy_black",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "headlights_chrome",
+      "mapping": "head;ights_chrome.json"
+    },
+    {
+      "name": "headlights_glass_lens",
+      "mapping": "window_glass.json"
+    },
+    {
+      "name": "hubcaps",
+      "mapping": "hubcaps.json"
+    },
+    {
+      "name": "lambert2",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "license_plate",
+      "mapping": "license_plate.json"
+    },
+    {
+      "name": "lights_LED",
+      "mapping": "lights_LED.json"
+    },
+    {
+      "name": "lights_glass",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "lights_glass_milky",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "lights_glossy_black",
+      "mapping": "lights_glossy_black.json"
+    },
+    {
+      "name": "lights_glossy_blue",
+      "mapping": "lights_glossy_blue.json"
+    },
+    {
+      "name": "lights_silvershadow",
+      "mapping": "ligshts_silvershadow.json"
+    },
+    {
+      "name": "lightsmid_glass_milky",
+      "mapping": "lightsmid_glass_miky.json"
+    },
+    {
+      "name": "lightsmid_silvershadow",
+      "mapping": "lightsmid_silvershadow.json"
+    },
+    {
+      "name": "matte_black",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "mirror",
+      "mapping": "mirror.json"
+    },
+    {
+      "name": "mirror_glas_indicator",
+      "mapping": "mirror_glas_indicator.json"
+    },
+    {
+      "name": "reflector_red",
+      "mapping": "reflector_red.json"
+    },
+    {
+      "name": "rim_glossy_black_blue_lines",
+      "mapping": "rim_glossy_black_blue_lines.json"
+    },
+    {
+      "name": "rim_glossy_silver",
+      "mapping": "rim_glossy_silver.json"
+    },
+    {
+      "name": "rubber_black",
+      "mapping": "rubber_black.json"
+    },
+    {
+      "name": "rubber_tire",
+      "mapping": "rubber_tire.json"
+    },
+    {
+      "name": "screws_silver",
+      "mapping": "screws_sliver.json"
+    },
+    {
+      "name": "silvershadow",
+      "mapping": "silvershadow.json"
+    },
+    {
+      "name": "taillights_glass",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "taillights_glass_red",
+      "mapping": "lights_glass.json"
+    },
+    {
+      "name": "taillight_glossy_black",
+      "mapping": "taillight_glossy_black.json"
+    },
+    {
+      "name": "taillights_chrome",
+      "mapping": "taillights_chrome.json"
+    },
+    {
+      "name": "taillights_glossy_silver",
+      "mapping": "taillghts_glossy_silver.json"
+    },
+    {
+      "name": "taillights_metal_red",
+      "mapping": "taillights_metal_red.json"
+    },
+    {
+      "name": "E00081_Chrome_w_spec",
+      "mapping": "chrome.json"
+    },
+    {
+      "name": "E00342_Plastic_Black_Matt",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "E00342_Plastic_Black_Matt_ncl1_1",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "Tire_AO",
+      "mapping": "Tire_AO.json"
+    },
+    {
+      "name": "Blackbox_ncl1_1",
+      "mapping": "BlackBox.json"
+    },
+    {
+      "name": "E01046_Rims_Black_High_Gloss",
+      "mapping": "glossy_black.json"
+    },
+    {
+      "name": "GLA_classplate_cn_serie",
+      "mapping": "classplate.json"
+    },
+    {
+      "name": "ShadowPlane",
+      "mapping": "shadow_plane.json"
+    },
+    {
+      "name": "blinn1",
+      "mapping": "blinn1.json"
+    },
+    {
+      "name": "blinn2",
+      "mapping": "Blinn2.json"
+    },
+    {
+      "name": "RADMUTTERN_SCHWARZ1",
+      "mapping": "matte_black.json"
+    },
+    {
+      "name": "rim02_color",
+      "mapping": "blinn1.json"
+    }
+  ],
+  "switchMaterials": [
+    {
+      "name": "carpaint",
+      "slots": [
+        {
+          "name": "carpaint__polarWhite",
+          "mapping": "carpaint_polarWhite.json"
+        },
+        {
+          "name": "carpaint__black",
+          "mapping": "carpaint_black.json"
+        },
+        {
+          "name": "carpaint__brilliantBlue",
+          "mapping": "carpaint_brilliantBlue.json"
+        },
+        {
+          "name": "carpaint__cavansiteBlue",
+          "mapping": "carpaint_cavansiteBlue.json"
+        },
+        {
+          "name": "carpaint__red",
+          "mapping": "carpaint_red.json"
+        },
+        {
+          "name": "carpaint__gray",
+          "mapping": "carpaint_gray.json"
+        }
+      ]
+    }
+  ]
+}

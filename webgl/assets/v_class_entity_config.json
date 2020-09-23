@@ -1,0 +1,30 @@
+{
+  "name": "V Class",
+  "id": "v_class",
+  "isEnvironment": false,
+  "ruleEngineType": "JSON",
+  "meshesUrlRelative": "v_class/meshes_production/",
+  "materialsUrlRelative": "materials/",
+  "animationsUrlRelative": "v_class/animations/",
+  "texturesUrlRelative": "",
+  "ruleEngineConfigUrlRelative": "v_class/v_class_rule_engine.json",
+  "materialMappingsUrlRelative": "v_class/v_class_material_mappings.json",
+  "rigUrlRelative": "",
+  "animations": [],
+  "meshSettingsRelative": "v_class/v_class_mesh_settings.json",
+  "cameraShotUrlsRelative": [
+    "v_class/cameras/v-class-camera-shot-ext.json",
+    "v_class/cameras/v-class-camera-shot-int.json"
+  ],
+  "environmentEntityUrlsRelative": [
+    "env_abandonedHall_entity_config.json"
+  ],
+  "postProcessingConfiguration": {
+    "imagePostProcessingEnabled": false,
+    "glowLayerEnabled": false,
+    "colorGradingTextureUrl": "",
+    "colorGradingTextureEnabled": false,
+    "toneMappingType": 1,
+    "toneMappingEnabled": false
+  }
+}

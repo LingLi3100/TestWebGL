@@ -1,0 +1,31 @@
+{
+  "name": "Monclear",
+  "id": "Monclear",
+  "isEnvironment": false,
+  "ruleEngineType": "JSON",
+  "meshesUrlRelative": "Monclear/meshes_production/",
+  "materialsUrlRelative": "Monclear/materials/",
+  "animationsUrlRelative": "Monclear/animations/",
+  "texturesUrlRelative": "Monclear/textures/",
+  "ruleEngineConfigUrlRelative": "Monclear/Monclear_rule_engine.json",
+  "materialMappingsUrlRelative": "Monclear/Monclear_material_mappings.json",
+  "rigUrlRelative": "",
+  "animations": [],
+  "meshSettingsRelative": "Monclear/Monclear_mesh_settings.json",
+  "cameraShotUrlsRelative": [
+    "Monclear/cameras/Monclear-camera-shot-ext.json",
+    "Monclear/cameras/Monclear-camera-shot-int.json"
+  ],
+  "environmentEntityUrlsRelative": [
+    "env_abandonedHall_entity_config.json"
+  ],
+  "postProcessingConfiguration": {
+    "imagePostProcessingEnabled": false,
+    "glowLayerEnabled": false,
+    "colorGradingTextureUrl": "",
+    "colorGradingTextureEnabled": false,
+    "toneMappingType": 1,
+    "toneMappingEnabled": false
+  }
+}
+
